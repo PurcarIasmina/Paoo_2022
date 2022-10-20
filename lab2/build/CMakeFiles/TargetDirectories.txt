@@ -1,0 +1,3 @@
+/Users/iasminapurcar/Documents/PAOO_2022/Paoo_2022/lab2/build/CMakeFiles/lab2.dir
+/Users/iasminapurcar/Documents/PAOO_2022/Paoo_2022/lab2/build/CMakeFiles/edit_cache.dir
+/Users/iasminapurcar/Documents/PAOO_2022/Paoo_2022/lab2/build/CMakeFiles/rebuild_cache.dir
