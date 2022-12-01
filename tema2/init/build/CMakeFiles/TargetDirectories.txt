@@ -1,0 +1,3 @@
+/mnt/c/Paoo/Paoo_2022/tema2/init/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Paoo/Paoo_2022/tema2/init/build/CMakeFiles/edit_cache.dir
+/mnt/c/Paoo/Paoo_2022/tema2/init/build/CMakeFiles/Tema2.dir

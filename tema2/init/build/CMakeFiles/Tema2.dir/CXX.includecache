@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Paoo/Paoo_2022/tema2/init/BMW.cpp
+iostream
+-
+Car.cpp
+/mnt/c/Paoo/Paoo_2022/tema2/init/Car.cpp
+
+/mnt/c/Paoo/Paoo_2022/tema2/init/Car.cpp
+iostream
+-
+
+/mnt/c/Paoo/Paoo_2022/tema2/init/main.cpp
+iostream
+-
+Car.cpp
+/mnt/c/Paoo/Paoo_2022/tema2/init/Car.cpp
+BMW.cpp
+/mnt/c/Paoo/Paoo_2022/tema2/init/BMW.cpp
+
