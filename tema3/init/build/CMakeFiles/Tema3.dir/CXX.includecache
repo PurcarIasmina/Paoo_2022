@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Paoo/Paoo_2022/tema3/init/Car.cpp
+iostream
+-
+
+/mnt/c/Paoo/Paoo_2022/tema3/init/Door.cpp
+iostream
+-
+
+/mnt/c/Paoo/Paoo_2022/tema3/init/LockDoor.cpp
+iostream
+-
+Door.cpp
+/mnt/c/Paoo/Paoo_2022/tema3/init/Door.cpp
+
+/mnt/c/Paoo/Paoo_2022/tema3/init/main.cpp
+iostream
+-
+Car.cpp
+/mnt/c/Paoo/Paoo_2022/tema3/init/Car.cpp
+Door.cpp
+/mnt/c/Paoo/Paoo_2022/tema3/init/Door.cpp
+LockDoor.cpp
+/mnt/c/Paoo/Paoo_2022/tema3/init/LockDoor.cpp
+memory
+-
+
